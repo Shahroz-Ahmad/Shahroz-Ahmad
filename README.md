@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Shahroz-Ahmad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ am a passionate developer with a focus on building responsive and user-friendly web applications using technologies like Next.js, React, and Tailwind CSS. I thrive on tackling complex challenges and continually enhancing my skills in full-stack development.
+
+ 
+🔧 Technologies & Tools
+
+Languages: JavaScript, HTML, CSS
+
+Frameworks: Next.js, React
+
+CSS Libraries: Tailwind CSS
+
+Tools: Git, Vercel, Visual Studio Code
 
 <!---
 Shahroz-Ahmad/Shahroz-Ahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
